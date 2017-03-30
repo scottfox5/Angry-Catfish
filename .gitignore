@@ -8,5 +8,6 @@ node_modules
 
 # Config
 config/auth.js
+config/database.js
 
 .env
